@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS\\26\\Stihi.ru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5749D35-BCDC-4DAB-670F-890C84C4C696}|Stihi.ru.csproj|e:\\cs\\26\\stihi.ru\\\u0432\u043E\u0440\u043E\u043D (\u0442\u0435\u043C\u0430).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C5749D35-BCDC-4DAB-670F-890C84C4C696}|Stihi.ru.csproj|solutionrelative:\u0432\u043E\u0440\u043E\u043D (\u0442\u0435\u043C\u0430).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8ab29a5d-b969-5666-8936-187bbd6be82f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0412\u041E\u0420\u041E\u041D (\u0422\u0435\u043C\u0430).md",
+              "DocumentMoniker": "E:\\CS\\26\\Stihi.ru\\\u0412\u041E\u0420\u041E\u041D (\u0422\u0435\u043C\u0430).md",
+              "RelativeDocumentMoniker": "\u0412\u041E\u0420\u041E\u041D (\u0422\u0435\u043C\u0430).md",
+              "ToolTip": "E:\\CS\\26\\Stihi.ru\\\u0412\u041E\u0420\u041E\u041D (\u0422\u0435\u043C\u0430).md",
+              "RelativeToolTip": "\u0412\u041E\u0420\u041E\u041D (\u0422\u0435\u043C\u0430).md",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAiwJwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-24T11:53:39.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
